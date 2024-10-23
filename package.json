@@ -1,0 +1,11 @@
+{
+  "name": "frontendaiml_chatbot",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["AIML", "Python", "Chatbot"],
+  "author": "rizkybayupasenaa",
+  "license": "ISC",
+  "description": "This UI of interaction for AIML Chatbot"
+}
